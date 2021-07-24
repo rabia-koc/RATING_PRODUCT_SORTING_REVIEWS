@@ -1,10 +1,11 @@
 # RATING_PRODUCT_SORTING_REVIEWS
-
+ 
    ![0_xqeHsgPVLV9t8shX](https://user-images.githubusercontent.com/73841520/126864066-b0351b20-2ba3-4820-95d1-39663414180c.jpg)
 
 # İş Problemi
 
 * Ürün ratinglerini daha doğru hesaplamaya çalışmak ve ürün yorumlarını daha doğru sıralamak.
+* Buradaki ana odağımız, insanların ilgili yorumu puanından bağımsız bir şekilde faydalı bulup bulmamasıdır. Pazarı manipüle etmeden gerçekte olanı yansıtarak yorumları %5 hata payı ile modellemeyi gerçekleştirmek.  
 
 # Veri Seti Hikayesi
 
